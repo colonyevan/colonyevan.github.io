@@ -6,11 +6,11 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 1.   Work on learning Jekyll and getting it working
 
-    a.  Make a default layout
+        a.  Make a default layout
 
-    b.  Make multiple includes
+        b.  Make multiple includes
 
-        1. Notably, Google Analytics
+            1. Notably, Google Analytics
 
 2. Change CSS formating to be my own
 
