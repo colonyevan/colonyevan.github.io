@@ -5,8 +5,11 @@ This is a WIP website that I wil develeoping over the summer and updating as nee
 # TODO
 
 1.   Work on laerning Jekyll and getting it working
+
 1a.  Make a default layout
+
 1b.  Make multiple includes
+
 1b1. Notably, Google Analytics
 
 2. Change CSS formating to be my own
