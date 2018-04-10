@@ -1,6 +1,6 @@
 # colonyevan.github.io
 
-This is a WIP website that I wil develeoping over the summer and updating as needed to stay constant with my current/past activities.
+This is a WIP website that I will be develeoping over the summer and updating as needed to stay constant with my current/past activities.
 
 # TODO
 
@@ -19,3 +19,7 @@ This is a WIP website that I wil develeoping over the summer and updating as nee
 4. Work on learning how to make a sitemap
 
 5. Loop for more additions to make to optimize website
+
+6. Work on implementing javascripts
+
+    a. Java Script map with places I've been to
