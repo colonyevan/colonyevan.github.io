@@ -4,7 +4,7 @@ This is a WIP website that I wil develeoping over the summer and updating as nee
 
 # TODO
 
-1.   Work on laerning Jekyll and getting it working
+1.   Work on learning Jekyll and getting it working
 
     a.  Make a default layout
 
