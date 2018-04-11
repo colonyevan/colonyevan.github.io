@@ -6,7 +6,7 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 1.   Work on learning Jekyll and getting it working
 
-    ~~1a.  Make a default layout~~
+    1a.  ~~Make a default layout~~
     
     1b.  Make multiple include
     
