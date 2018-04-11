@@ -6,13 +6,13 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 -[x] Work on learning Jekyll and getting it working
 
-    -[x]  Make a default layout
+-[x]  Make a default layout
     
-    -[x]  Make multiple include
+-[x]  Make multiple include
     
-        -[x] Notably, Google Analytics
+-[x] Notably, Google Analytics
         
-        -[x] More includes
+-[x] More includes
         
 2.   Change CSS formating to be my own
 
