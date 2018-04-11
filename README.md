@@ -1,6 +1,6 @@
 # colonyevan.github.io
 
-This is a WIP website that I will be develeoping over the summer and updating as needed to stay constant with my current/past activities.
+~~This~~ is a WIP website that I will be develeoping over the summer and updating as needed to stay constant with my current/past activities.
 
 # TODO
 
