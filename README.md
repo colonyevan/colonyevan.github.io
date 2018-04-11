@@ -4,22 +4,22 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 # TODO
 
-1.   Work on learning Jekyll and getting it working 1
+1.   Work on learning Jekyll and getting it working
 
-1a.  Make a default layout 1
+    1a.  Make a default layout
 
-1b.  Make multiple includes1
+    1b.  Make multiple include
 
-1ca. Notably, Google Analytics 1
+        1c1. Notably, Google Analytics
 
-2. Change CSS formating to be my own 2
+2. Change CSS formating to be my own
 
-3. Fix My resume 3
+3. Fix My resume
 
-4. Work on learning how to make a sitemap 4
+4. Work on learning how to make a sitemap
 
-5. Lock for more additions to make to optimize website 5
+5. Lock for more additions to make to optimize website
 
-6. Work on implementing javascripts 6
+6. Work on implementing javascripts
 
-6a. Java Script map with places I've been to 6
+    6a. Java Script map with places I've been to
