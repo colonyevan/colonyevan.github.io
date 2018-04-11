@@ -4,24 +4,22 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 # TODO
 
--[x] Work on learning Jekyll and getting it working
+Work on learning Jekyll and getting it working
+- [x] Make a default layout
+- [x] Make multiple includes
 
--[x]  Make a default layout
-    
--[x]  Make multiple include
-    
--[x] Notably, Google Analytics
-        
--[x] More includes
-        
-2.   Change CSS formating to be my own
+Styling
+- [x] Make main.css my own style
+- [x] Make a CSS sheet for my resume
 
-3.   Fix My resume
+Fix My resume
+- [x] Add school info
+- [x] Add work history
 
-4.   Work on learning how to make a sitemap
+Work on learning how to make a sitemap
 
-5.   Lock for more additions to make to optimize website
+Look for more additions to make to optimize website
 
-6.   Work on learning Jekyll and getting it working
+Javascript
 
-    6a.  Notably, Google Analytics
+- [x] Map tha shows where I have been
