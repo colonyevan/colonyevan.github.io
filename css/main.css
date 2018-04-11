@@ -42,7 +42,7 @@ footer {
     font-size: .8em;
 }
 
-footer p.pull-right {
+.pull-right {
     text-align: right;
 }
 
