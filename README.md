@@ -22,4 +22,4 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 6. Work on implementing javascripts
 
-    6a. Java Script map with places I've been to
+        6a. Java Script map with places I've been to
