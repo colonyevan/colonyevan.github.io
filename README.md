@@ -4,13 +4,15 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 # TODO
 
-1.   Work on learning Jekyll and getting it working
+-[x] Work on learning Jekyll and getting it working
 
-    1a.  Make a default layout
+    -[x]  Make a default layout
     
-    1b.  Make multiple include
+    -[x]  Make multiple include
     
-        1c1. Notably, Google Analytics
+        -[x] Notably, Google Analytics
+        
+        -[x] More includes
         
 2.   Change CSS formating to be my own
 
