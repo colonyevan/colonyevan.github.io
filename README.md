@@ -8,6 +8,7 @@ This is a WIP website that I will be develeoping over the summer and updating as
 - [x] Make a default layout
 - [ ] Make multiple includes
     - [ ] Google Analytics
+    - [ ] Look for more vital includes
 
 ### Styling
 - [ ] Make main.css my own style
