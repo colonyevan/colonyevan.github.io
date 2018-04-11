@@ -5,6 +5,7 @@ This is a WIP website that I will be develeoping over the summer and updating as
 # TODO
 
 1.   Work on learning Jekyll and getting it working
+
     1a.  Make a default layout
     1b.  Make multiple include
         1c1. Notably, Google Analytics
@@ -13,4 +14,5 @@ This is a WIP website that I will be develeoping over the summer and updating as
 4. Work on learning how to make a sitemap
 5. Lock for more additions to make to optimize website
 6. Implement Javascripts
+
     6a. Script to make a map with places I've been
