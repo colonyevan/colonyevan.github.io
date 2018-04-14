@@ -1,7 +1,6 @@
 
 body {
     margin: 60px auto;
-    width: 70%;
 }
 
 nav ul,
@@ -11,10 +10,13 @@ footer ul {
     font-weight: bold;
 }
 
-nav ul li,
-footer ul li {
+body nav ul li {
     display: inline;
     margin-right: 20px;
+}
+
+footer ul li {
+    display: inline;
 }
 
 footer ul li {
@@ -35,7 +37,7 @@ h1 {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-p {
+.blurb p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -43,4 +45,4 @@ p {
 
 footer {
     border-top: 1px solid #d5d5d5;
-} 
+}
