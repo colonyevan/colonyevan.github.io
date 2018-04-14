@@ -9,7 +9,7 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
     <!-- link to main stylesheet -->
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <title>Evan Colony</title>
+    <title>{{page.title}}</title>
 </head>
 
 <body>
@@ -29,22 +29,12 @@
 
     <div class="container">
         
-        <!-- /.blurb -->
+        {{ content }}
+        
     </div>
     <!-- /.container -->
 </body>
 
-<footer class="container">
-    <div class="row">
-        <ul class="col-sm-8">
-            <li class="col-sm-4"><a href="">Email (not currently listed)</a></li>
-            <li class="col-sm-4"><a href="https://github.com/colonyevan">github.com/colonyevan</a></li>
-        </ul>
-        <!-- /.col-sm-8 -->
-        <p class="pull-right"><a href="/site" title="About this site">About this site</a></p>
-    </div>
-    <!-- /.row -->
-</footer>
-<!-- /.container -->
+{% include footer.html %}
 
 </html>
