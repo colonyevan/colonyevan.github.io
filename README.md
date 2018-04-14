@@ -4,13 +4,8 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 # TODO
 
-### Work on learning Jekyll and getting it working
-- [x] Make a default layout
-- [ ] Make multiple includes
-    - [ ] Google Analytics
-    - [ ] Look for more vital includes
-
 ### Styling
+- [ ] Work on Bootsrap
 - [ ] Make main.css my own style
 - [ ] Make a CSS sheet for my resume
 
@@ -21,6 +16,10 @@ This is a WIP website that I will be develeoping over the summer and updating as
 ### Work on learning how to make a sitemap
 
 ### Look for more additions to make to optimize website
+
+### SEO
+- [ ] Work on meta tags
+- [ ] Subit URL to google 
 
 ### Javascript
 
