@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <meta charset="UTF-8" />
+    <!-- Link to Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <!-- Link to fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <title>{{ page.title }}</title>
+</head>
+
+<body>
+    <header class="container">
+        <nav class="row">
+            <ul class="col-sm-7">
+                <li class="col-sm-1"><a href="/">Home</a></li>
+                <li class="col-sm-1"><a href="/about">About</a></li>
+                <li class="col-sm-1"><a href="/resume">Resume</a></li>
+                <li class="col-sm-3"><a href="/currentProjects">Current Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+
+        {{ content }}
+
+    </div>
+    <!-- /.container -->
+    <footer class="container">
+        <div class="row">
+            <ul class="col-sm-8">
+                <li class="col-sm-4"><a href="">email (not currently listed)</a></li>
+                <li class="col-sm-4"><a href="https://github.com/colonyevan">github.com/colonyevan</a></li>
+            </ul>
+
+            <p class="col-sm-4 pull-right"><small><a href="/site" title="About this site">About this site</a></small></p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
