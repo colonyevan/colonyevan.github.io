@@ -28,4 +28,4 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 ### Javascript
 
-- [ ] Map tha shows where I have been
+- [ ] Map that shows where I have been
