@@ -17,9 +17,6 @@ body nav ul li {
 
 footer ul li {
     display: inline;
-}
-
-footer ul li {
     text-align: left;
 }
 
@@ -48,6 +45,6 @@ footer {
 }
 
 
-footer p {
+footer > p {
     font-size: .8em;
 }
