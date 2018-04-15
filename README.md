@@ -4,6 +4,11 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 # TODO
 
+### Jekyll
+- [ ] Work on defualt layout
+- [ ] Work on includes
+    - [ ] Work on google analytics
+
 ### Styling
 - [ ] Work on Bootsrap
 - [ ] Make main.css my own style
@@ -19,7 +24,7 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 ### SEO
 - [ ] Work on meta tags
-- [ ] Subit URL to google 
+- [ ] Submit URL to google 
 
 ### Javascript
 
