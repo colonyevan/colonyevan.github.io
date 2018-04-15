@@ -48,3 +48,7 @@ footer {
 footer > p {
     font-size: .8em;
 }
+
+img.avatar {
+    margin-bottom: 30px;
+}
