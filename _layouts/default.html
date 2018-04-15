@@ -12,25 +12,26 @@
     <title>{{page.title}}</title>
 </head>
 
+<header class="container">
+    <nav class="row">
+        <ul class="col-sm-8">
+            <li class="col-sm-1"><a href="/">Home</a></li>
+            <li class="col-sm-1"><a href="/about">About</a></li>
+            <li class="col-sm-1"><a href="/resume">Resume</a></li>
+            <li class="col-sm-3"><a href="/currentProjects">Current Projects</a></li>
+        </ul>
+        <!-- /.col-sm-8 -->
+    </nav>
+    <!-- /.row -->
+</header>
+
 <body>
-    <header class="container">
-        <nav class="row">
-            <ul class="col-sm-8">
-                <li class="col-sm-1"><a href="/">Home</a></li>
-                <li class="col-sm-1"><a href="/about">About</a></li>
-                <li class="col-sm-1"><a href="/resume">Resume</a></li>
-                <li class="col-sm-3"><a href="/currentProjects">Current Projects</a></li>
-            </ul>
-            <!-- /.col-sm-8 -->
-        </nav>
-        <!-- /.row -->
-    </header>
     <!-- /.container -->
 
     <div class="container">
-        
+
         {{ content }}
-        
+
     </div>
     <!-- /.container -->
 </body>
