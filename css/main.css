@@ -1,11 +1,6 @@
 
 body {
     margin-top: 60px;
-    border-top: 1px solid #d5d5d5;
-}
-
-header {
-    border-bottom: 1px solid #d5d5d5;
 }
 
 nav ul,
@@ -56,4 +51,7 @@ footer > p {
 
 img.avatar {
     margin-bottom: 30px;
+}
+header {
+    border-bottom: 1px solid #d5d5d5;
 }
