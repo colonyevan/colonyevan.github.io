@@ -37,7 +37,7 @@ h1 {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-div.container > p {
+p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
