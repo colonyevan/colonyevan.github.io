@@ -45,13 +45,14 @@ footer {
 }
 
 
-footer > p {
+footer>p {
     font-size: .8em;
 }
 
 img.avatar {
     margin-bottom: 30px;
 }
+
 header {
     border-bottom: 1px solid #d5d5d5;
 }
