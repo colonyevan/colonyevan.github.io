@@ -52,7 +52,7 @@ header {
     border-bottom: 1px solid #d5d5d5;
 }
 
-.resume p {
+p#Resume-Tag {
     font-size: 1em;
     line-height: 1em;
 }
