@@ -5,7 +5,7 @@ This is a WIP website that I will be develeoping over the summer and updating as
 # TODO
 
 ### Jekyll
-- [ ] Work on defualt layout
+- [x] Work on defualt layout
 - [ ] Work on includes
     - [ ] Work on google analytics
 
