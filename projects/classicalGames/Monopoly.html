@@ -1,52 +1,95 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+        <!-- Link to Bootstrap -->
+        <link
+            rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+            integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+            crossorigin="anonymous"
+        />
+        <script
+            src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+            crossorigin="anonymous"
+        ></script>
+        <!-- Link to fonts -->
+        <link
+            href="https://fonts.googleapis.com/css?family=Roboto:300,400,700"
+            rel="stylesheet"
+            type="text/css"
+        />
+        <!-- link to main stylesheet -->
+        <link rel="stylesheet" type="text/css" href="/css/main.css" />
+        <title>My Website</title>
+    </head>
 
-<head>
-    <meta charset="UTF-8" />
-    <!-- Link to Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">    <!-- Link to fonts -->
-    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
-    <!-- link to main stylesheet -->
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <title>My Website</title>
-</head>
+    <body>
+        <header class="container">
+            <nav class="row">
+                <ul class="col-sm-8">
+                    <li class="col-sm-1"><a href="/">Home</a></li>
+                    <li class="col-sm-1"><a href="/about">About</a></li>
+                    <li class="col-sm-1"><a href="/resume">Resume</a></li>
+                    <li class="col-sm-3"><a href="/projects/">Projects</a></li>
+                </ul>
+                <!-- /.col-sm-8 -->
+            </nav>
+            <!-- /.row -->
+        </header>
+        <!-- /.container -->
 
-<body>
-    <header class="container">
-        <nav class="row">
-            <ul class="col-sm-8">
-                <li class="col-sm-1"><a href="/">Home</a></li>
-                <li class="col-sm-1"><a href="/about">About</a></li>
-                <li class="col-sm-1"><a href="/resume">Resume</a></li>
-                <li class="col-sm-3"><a href="/projects/">Projects</a></li>
-            </ul>
-            <!-- /.col-sm-8 -->
-        </nav>
-        <!-- /.row -->
-    </header>
-    <!-- /.container -->
-    
-    <!-- This is where content goes-->
+        <!-- This is where content goes-->
 
-    <footer class="container">
-        <nav class="row">
-            <ul class="col-sm-12">
-                <li class="col-sm-2">
-                    <script language="JavaScript">
-                        var username = "abcd.abcd";
-                        var hostname = "abcd.edu";
-                        var linktext = username + "@" + hostname ;
-                        document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
-                    </script>
-                </li>
-                <li class="col-sm-2 pull-left"><a href="https://github.com/colonyevan">github.com/colonyevan</a></li>
-                <li class="pull-right"><a href="/site" title="About this site">About this site</a></li>
-            </ul>
-            <!-- col-sm-12 -->
-        </nav>
-        <!-- /.row -->
-    </footer>
-    <!-- /.container -->
-</body>
+        <footer class="container">
+            <nav class="row">
+                <ul class="col-sm-12">
+                    <li class="col-sm-2">
+                        <script language="JavaScript">
+                            var username = "abcd.abcd";
+                            var hostname = "abcd.edu";
+                            var linktext = username + "@" + hostname;
+                            document.write(
+                                "<a href='" +
+                                    "mail" +
+                                    "to:" +
+                                    username +
+                                    "@" +
+                                    hostname +
+                                    "'>" +
+                                    linktext +
+                                    "</a>"
+                            );
+                        </script>
+                    </li>
+                    <li class="col-sm-2 pull-left">
+                        <a href="https://github.com/colonyevan">github.com/colonyevan</a>
+                    </li>
+                    <li class="pull-right">
+                        <a href="/site" title="About this site">About this site</a>
+                    </li>
+                </ul>
+                <!-- col-sm-12 -->
+            </nav>
+            <!-- /.row -->
+        </footer>
+        <!-- /.container -->
 
+        <!-- JQuery and Popper.js plugins -->
+        <script
+            src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"
+        ></script>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+            crossorigin="anonymous"
+        ></script>
+    </body>
 </html>
