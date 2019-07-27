@@ -1,9 +1,56 @@
---- 
-layout: default
-title: About Me
----
-<div class="container">
-    <h1>Hi there, I'm Evan!</h1>
-    <p>&emsp;I am a current University of Michigan student pursuing a Bachelor's of Business Administration with a minor in Computer Science. Before coming to the University of Michigan, I attended Muscatine High School where I was the president of the Peer Tutoring Program and active in our student government. I also participated in Mock Trial, the School Improvment Advisory Committee, the National Honor Society and played goalie for the JV Soccer Team.</p>
-</div>
-<!-- /.blurb -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <!-- Link to Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">    <!-- Link to fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <title>My Website</title>
+</head>
+
+<body>
+    <header class="container">
+        <nav class="row">
+            <ul class="col-sm-8">
+                <li class="col-sm-1"><a href="/">Home</a></li>
+                <li class="col-sm-1"><a href="/about">About</a></li>
+                <li class="col-sm-1"><a href="/resume">Resume</a></li>
+                <li class="col-sm-3"><a href="/projects/">Projects</a></li>
+            </ul>
+            <!-- /.col-sm-8 -->
+        </nav>
+        <!-- /.row -->
+    </header>
+    <!-- /.container -->
+    
+    <div class="container">
+        <h1>Hi there, I'm Evan!</h1>
+        <p>&emsp;I am a current University of Michigan student pursuing a Bachelor's of Business Administration with a minor in Computer Science. Before coming to the University of Michigan, I attended Muscatine High School where I was the president of the Peer Tutoring Program and active in our student government. I also participated in Mock Trial, the School Improvment Advisory Committee, the National Honor Society and played goalie for the JV Soccer Team.</p>
+    </div>
+    <!-- /.container -->
+
+    <footer class="container">
+        <nav class="row">
+            <ul class="col-sm-12">
+                <li class="col-sm-2">
+                    <script language="JavaScript">
+                        var username = "abcd.abcd";
+                        var hostname = "abcd.edu";
+                        var linktext = username + "@" + hostname ;
+                        document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
+                    </script>
+                </li>
+                <li class="col-sm-2 pull-left"><a href="https://github.com/colonyevan">github.com/colonyevan</a></li>
+                <li class="pull-right"><a href="/site" title="About this site">About this site</a></li>
+            </ul>
+            <!-- col-sm-12 -->
+        </nav>
+        <!-- /.row -->
+    </footer>
+    <!-- /.container -->
+</body>
+
+</html>

@@ -1,13 +1,6 @@
 # colonyevan.github.io
 
-This is a WIP website that I will be develeoping over the summer and updating as needed to stay constant with my current/past activities.
-
-# TODO
-
-### Jekyll
-- [x] Work on defualt layout
-- [ ] Work on includes
-    - [ ] Work on google analytics
+This is a WIP website that I will be develeoping over the summer and updating as needed to stay constant with my current/past activities. I have deprecated my used of Jekyll to make offline editing easier. 
 
 ### Styling
 - [ ] Work on Bootsrap
@@ -24,7 +17,7 @@ This is a WIP website that I will be develeoping over the summer and updating as
 
 ### SEO
 - [ ] Work on meta tags
-- [ ] Submit URL to google 
+- [ ] Submit URL to google
 
 ### Javascript
 
